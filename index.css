@@ -1,0 +1,13 @@
+body{
+    /* background-repeat : 반복조절 */
+    background-image: url('https://ifh.cc/g/FGZzkK.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+  /*   background-position: top; */
+  }
+
+  .control{
+    text-align: right;
+    line-height:23cm;
+    font-size:60px;
+  }
